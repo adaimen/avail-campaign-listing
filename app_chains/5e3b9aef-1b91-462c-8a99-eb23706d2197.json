@@ -1,0 +1,8 @@
+{
+  "name": "biubiu",
+  "logo": "https://i.imgur.com/CHa8fBg.jpeg",
+  "rpc_url": "http://43.134.12.85:9944",
+  "explorer_url": "http://43.134.12.85:4000",
+  "metrics_endpoint": "http://43.134.12.85:9615/metrics",
+  "id": "5e3b9aef-1b91-462c-8a99-eb23706d2197"
+}
